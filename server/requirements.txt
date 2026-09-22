@@ -1,0 +1,15 @@
+flask
+flask-cors
+flask-jwt-extended
+flask-sqlalchemy
+psycopg2-binary
+python-dotenv
+bcrypt
+sib-api-v3-sdk
+cloudinary
+razorpay
+pandas
+openpyxl
+reportlab
+alembic
+gunicorn
