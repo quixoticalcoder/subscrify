@@ -6,6 +6,10 @@ subscrify brings product configuration, recurring plans, customer records, subsc
 
 This repository is a functional application prototype. Recurring billing dates are calculated in application code, but invoice generation and renewal are triggered through API actions: there is no background billing scheduler or automatic recurring charge service. The [implementation limits](#implementation-limits) describe the remaining work before a production deployment.
 
+## Watch demo video
+
+https://youtu.be/LB2FhDEiW6E?si=xKNWb2cSmSOAacQi
+
 ## Contents
 
 - [Capabilities](#capabilities)
